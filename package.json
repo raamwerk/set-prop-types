@@ -1,0 +1,17 @@
+{
+  "name": "set-prop-types",
+  "version": "0.0.1",
+  "description": "Set prop types and default props on a React component",
+  "main": "set-prop-types.js",
+  "keywords": [
+    "prop-types",
+    "default",
+    "props",
+    "react"
+  ],
+  "author": "Valentijn Baakman",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
